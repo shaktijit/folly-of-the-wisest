@@ -2,6 +2,11 @@ body
 {
   background-color: #EAF6F6;
 }
+img 
+{
+  height: 200px;
+  width: 200px;
+}
 hr
 {
   border-style: dotted none none;
